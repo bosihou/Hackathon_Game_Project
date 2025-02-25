@@ -15,15 +15,12 @@
 ## Built With
 - **Game Engine**: Unity
 - **Scripting**: C#
-- **AI Integration**: OpenAI API
+- **AI Integration**: Qwen API / OpenAI API
 - **Python**: Initial development and API testing
 - **2D Sprite Assets & Original Artwork**
 
 ## Installation
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/awake.git
-   ```
 2. **Open the project in Unity (version 2021.3 or later recommended)**.
 3. **Build and Run**:
    - Use Unity’s build settings to create a playable build for your target platform (PC, Mac, etc.).
@@ -31,18 +28,18 @@
    - Enter your robot description when prompted and enjoy the adventure!
 
 ## Controls
-- **AD**: Move left/right
-- **shift**: Dash
+- **A/D**: Move left/right
 - **Spacebar**: Jump
 - **F**: Attack
+- **Esc**: Exit game *(Global control)*
+- **R**: Return to starting page *(after game ends)*
 
-## Contributing
-We welcome contributions! If you want to report a bug, request a feature, or contribute code, please submit an issue or a pull request.
+## 👥 Contributors
 
-## Future Plans
-- Add more levels with branching storylines.
-- Enhance character evolution based on player interactions.
-- Expand AI customization for deeper character traits.
+- [@bosihou](https://github.com/bosihou) — Development & Testing
+- [@Doria078cw](https://github.com/Doria078cw) — Design & Aethetics & Game Mechanics 
+
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
