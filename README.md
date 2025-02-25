@@ -20,7 +20,7 @@
 - **2D Sprite Assets & Original Artwork**
 
 ## Installation
-1. **Clone the repository**:
+1. **Clone the repository**
 2. **Open the project in Unity (version 2021.3 or later recommended)**.
 3. **Build and Run**:
    - Use Unity’s build settings to create a playable build for your target platform (PC, Mac, etc.).
